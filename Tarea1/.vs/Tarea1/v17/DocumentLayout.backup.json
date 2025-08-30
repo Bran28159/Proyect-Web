@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Tarea1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\ejercicio1\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\views\\ejercicio1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\ejercicio1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|c:\\xampp\\htdocs\\tarea1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797114C8-B599-8E9E-656D-57E6E0F17148}|Tarea1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Views\\Ejercicio1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejercicio1\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Views\\Ejercicio1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ejercicio1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T22:22:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\Ejercicio1.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:07:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:56:34.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:55:35.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:54:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T21:38:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Controllers\\Ejercicio2.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\Ejercicio2.cs",
+              "RelativeToolTip": "Controllers\\Ejercicio2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T23:24:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Views\\Ejercicio1\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ejercicio1\\Perfil.cshtml",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Views\\Ejercicio1\\Perfil.cshtml*",
+              "RelativeToolTip": "Views\\Ejercicio1\\Perfil.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T23:08:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Tarea1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:56:38.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
